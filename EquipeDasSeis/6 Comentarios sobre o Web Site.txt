@@ -1,0 +1,6 @@
+6. Comentários sobre a “web site" sistema:
+Desenvolvemos este web site devido aos problemas ocorridos como instalações dos programas de linguagens que utilizaríamos para desenvolver o sistema desktop e/ou mobile, devido a isso optamos por uma resolução mais simples sem fugir da solução que buscávamos desenvolver em outra plataforma, devido aos problemas e o pouco tempo que tínhamos para desenvolver optamos por enxugar as funções que tínhamos como idéia para a web site sem deixar de atender o nosso objetivo principal que é a funcionalidade e a praticidade.
+Para a questão do desenvolvimento da web utilizamos os nossos conhecimento em HTML e o que aprendemos de PHP de sábado (03/06/2017) para a amanhã do domingo (04/06/2017).
+Fizemos toda a estrutura do formulário em HTML e incrementamos o PHP para salvar o nosso formulário no e-mail já que não possuíamos conhecimento a fundo em PHP para implantar a função que salvaria todas as informações preenchidas nesse formulário num banco de dados, como seria feito no desenvolvimento em desktop e/ou mobile, alem de já estarmos planejando passar o site para responsivo.
+O nosso motivação para solucionar o problema foi à questão de facilitar a vida dos integrantes da ronda Maria da penha e, além disso, levar funcionalidade que futuramente irão coibir a ação da violência contra a mulher.
+
